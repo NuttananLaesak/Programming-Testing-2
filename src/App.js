@@ -30,7 +30,6 @@ function App() {
 
     return (
         <div className="container">
-            <h1>Programing Testing 2</h1>
             <h1>ระบบค้นหาพนักงาน</h1>
             <div>
                 <input
