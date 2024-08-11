@@ -1,4 +1,3 @@
-// utils.js
 export function handleInput(input) {
     return input.map(item => {
         if (item.name === "Janny" || item.name === "Game") {
